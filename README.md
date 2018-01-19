@@ -1,1 +1,1 @@
-Stroop-Effect
+2 Statistics StroopEffect
